@@ -3,9 +3,6 @@
 ## E-Commerce Sales Analytics
 
 This section summarizes the key business findings identified through exploratory data analysis, SQL analysis, and Power BI reporting.
-
-> Note: Replace the placeholder insights below with the actual values from your EDA and Power BI dashboard where applicable.
-
 ---
 
 ## 1. Sales Performance
